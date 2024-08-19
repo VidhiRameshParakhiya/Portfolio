@@ -190,7 +190,7 @@ export const DATA = {
     },
     {
       title: "Money Tracker UI",
-      href: "https://llm.report",
+      href: "https://www.figma.com/proto/BtkbH06jQXFaPfFxtUQDX5/Untitled?node-id=18-24&t=jQEFLoBv2BUCe0ts-1",
       dates: "April 2024",
       active: true,
       description:
