@@ -80,6 +80,18 @@ export const DATA = {
   },
 
   work: [
+    {
+      company: "Acuholistic health",
+      badges: [],
+      href: "https://www.acuholistics.com/",
+      location: "Remote",
+      title: "Software Engineer",
+      logoUrl: "/acuholistic.png",
+      start: "Apr 2023",
+      end: "Dec 2023",
+      description:
+        "Crafted the Acuholistic app logo, ensuring it aligned with the brand's identity using XML Leveraged Canva to design visually appealing backgrounds, enriching the app’s UI and ensuring cohesive visual theme Improved a user-friendly appointment booking interface, notifications system, ensuring users stay informed of important appointment updates.Designed a secure and straightforward payment interface, enhancing user trust and convenience",
+    },
        {
       company: "Fincrux Technologies",
       badges: [],
@@ -90,7 +102,7 @@ export const DATA = {
       start: "May 2022",
       end: "Mar 2023",
       description:
-        "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
+        "Developed and maintained a stock market simulator website,ensuring high performance and scalability.Planned front-end designs for the home page and new courses using React,HTML,Node.js,resulting in 20% increase in user engagement.Controlled and monitored the backend with AWS,Node.js and SQL,enabling a 50% increase in data processing capacity to support large-scale implementation.Improved cross-browser compatibility and responsive design,leading to 30% decrease in bounce rates and 40% increase in user retention.Conducted CRON jobs in Javascript to automate the visibility of certifications for users and update program dates dynamically. Calculated final score,results sending,and template changing for each course.",
     },
     {
       company: "Virash technologies Internship",
@@ -100,9 +112,9 @@ export const DATA = {
       title: "Android development",
       logoUrl: "/virash.jpeg",
       start: "Apr 2018",
-      end: "oct 2018",
+      end: "Oct 2018",
       description:
-        "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
+        "Created UI using XML of different Web pages like Splash screen, Login page, Home page, and Logo for applications.	Collaborated with four-person back-end development team to implement user interface improvements.Generated complex layouts using XML and Java to accommodate different screen sizes and orientations.Collaborated with clients to gather requirements, resolve issues, and answer user inquiries.Regularly maintained and updated the company website using XML, Java, Canva to ensure functionality and relevance.",
     },
    
   ],
@@ -113,7 +125,7 @@ export const DATA = {
       degree: "Masters in software engineer ",
       logoUrl: "/pace.jpeg",
       start: "Jan 2024",
-      end: "Jan 2026",
+      end: "Dec 2025",
     },
     {
       school: "Mumbai University",
